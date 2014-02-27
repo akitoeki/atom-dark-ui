@@ -1,10 +1,10 @@
 {
-  "name": "atom-dark-ui",
+  "name": "atom-simply-ui",
   "theme": "ui",
-  "version": "0.23.0",
-  "description": "Default dark theme for interface components",
+  "version": "0.1.0",
+  "description": "Modified dark theme for interface components",
   "license": "MIT",
-  "repository": "https://github.com/atom/atom-dark-ui",
+  "repository": "https://github.com/akitoeki/atom-simplydark-ui",
   "engines": {
     "atom": ">0.40.0"
   }
